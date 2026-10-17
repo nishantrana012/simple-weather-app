@@ -53,8 +53,8 @@ You can create an API key from the
 ### 1. Clone the repository
 
 ```powershell
-git clone <your-github-repository-url>
-cd "Final Weather"
+git clone "https://github.com/nishantrana012/simple-weather-app"
+cd "simple-weather-app"
 ```
 
 ### 2. Create a virtual environment
